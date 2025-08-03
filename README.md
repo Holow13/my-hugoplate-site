@@ -16,14 +16,14 @@
    git clone https://github.com/Holow13/my-hugoplate-site.git
    cd my-hugoplate-site
 # Для macOS (с Homebrew)
-brew install hugo
+    brew install hugo
 
 # Для Windows (с Chocolatey)
-choco install hugo-extended -confirm
+    choco install hugo-extended -confirm
 
 
 ## Запустите локальный сервер:
- hugo server -D
+     hugo server -D
  
  Сайт будет доступен по адресу: http://localhost:1313
 
